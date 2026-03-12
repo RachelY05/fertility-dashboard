@@ -3,4 +3,5 @@ plotly
 scikit-learn
 statsmodels
 numpy
-streamlit
+altair==4.2.2
+streamlit==1.22.0
