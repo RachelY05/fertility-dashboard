@@ -1,5 +1,6 @@
-pandas==2.0.3
+pandas
 plotly
 scikit-learn
 statsmodels
-numpy==1.24.0
+numpy
+streamlit
